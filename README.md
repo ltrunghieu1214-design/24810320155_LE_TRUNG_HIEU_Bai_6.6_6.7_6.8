@@ -4,7 +4,7 @@
 * **Họ và tên:** LÊ TRUNG HIẾU
 * **Mã số sinh viên:** 24810320155
 * **Lớp học phần:** Lập trình .NET – Lớp: D19QTANM1
-* **Link Repository:** https://github.com/ltrunghieu1214-design/LE_TRUNG_HIEU_24810320155_TH_13-11-2026.git
+* **Link Repository:** https://github.com/ltrunghieu1214-design/24810320155_LE_TRUNG_HIEU_Bai_6.6_6.7_6.8.git
 
 ---
 
@@ -147,4 +147,4 @@ Tất cả các bài đều tuân thủ cấu trúc Solution 3-Tier chuẩn:
 1. Clone Repository về máy:
 
 ```bash
-git clone https://github.com/ltrunghieu1214-design/LE_TRUNG_HIEU_24810320155_TH_13-11-2026.git
+git clone https://github.com/ltrunghieu1214-design/24810320155_LE_TRUNG_HIEU_Bai_6.6_6.7_6.8.git
