@@ -1,7 +1,6 @@
 # BÁO CÁO BÀI TẬP THỰC HÀNH LẬP TRÌNH C# WINFORMS
 
 ## I. THÔNG TIN SINH VIÊN
-
 * **Họ và tên:** LÊ TRUNG HIẾU
 * **Mã số sinh viên:** 24810320155
 * **Lớp học phần:** Lập trình .NET – Lớp: D19QTANM1
